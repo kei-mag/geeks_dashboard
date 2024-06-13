@@ -1,16 +1,16 @@
 # geeks_dashboard
 
-Dashboard for monitor weather, schedule, transit info, server status, etc.
+Dashboard for monitoring weather, schedule, traffic info, server status, etc.
 
-## Getting Started
+## Main target devices
+- Web
+- Android 5+
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Show weather forecast
+- Show transit information
+- Show schedule
+- Show server status
+  - CPU, Mem and Storage usage
+  - SSH or ping
+- e-ink friendly design is included
